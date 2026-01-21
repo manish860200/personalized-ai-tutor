@@ -1,0 +1,2 @@
+# Core dependency for LLM-style workflows (kept minimal)
+langchain
